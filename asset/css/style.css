@@ -1,0 +1,34 @@
+*, *::after,*::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*Fonts */
+
+/* images */
+.logoLc{
+    width: 120px;
+}
+/* Container */
+
+
+/* Header */
+/* Navbar */
+.navbar-nav{
+    margin-left: auto;
+}
+
+/* Main */
+
+
+/* Home */
+
+
+/* About */
+
+
+/* Project */
+
+
+/* Contact */
