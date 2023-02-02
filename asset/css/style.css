@@ -20,15 +20,88 @@
 }
 
 /* Main */
+button {
+    border-radius: 20px;
+    border: none;
+    margin: 3rem;
+    padding: 0.5rem 2rem;
+    background-color: #5F4090;
+    color: #fff;
+}
+
+.bi-arrow-right-circle {
+    margin-left: 1rem;
+}
+
+.btn-primary {
+    width: 5rem;
+    height: 4.5rem;
+    text-align: center;
+    background-color: #E5E5E5;
+    color: #E69F23;
+    --bs-btn-border-color: none;
+}
+
+.btn p {
+    display: flex;
+    position: relative;
+    margin-left: 0.8rem;
+}
+
+.card-body .bi-arrow-right-circle {
+    display: flex;
+    position: relative;
+    bottom: 1.7rem;
+    left: 1rem;
+}
+
+.description {
+    color: #E69F23;
+    text-decoration: underline;
+}
+
+.container2 {
+    height: 8rem;
+    display: block;
+    margin: auto;
+    color: white;
+}
+
+.container2 button {
+    background-color: #E69F23;
+    padding: 10px;
+}
+
+.btn-add {
+    color: white;
+    width: 11.5rem;
+    border-radius: 20px;
+}
+
+.blob-rouge {
+    position: absolute;
+    z-index: -1;
+    max-width: 100%;
+    height: auto;
+    left: 7.5rem;
+}
 
 
-/* Home */
+.blob-violet {
+    position: absolute;
+    z-index: -1;
+    max-width: 100%;
+    height: auto;
+    left: 40rem;
+    top: 65rem;
 
 
-/* About */
+}
 
-
-/* Project */
-
-
-/* Contact */
+.bi-arrow-up-circle{
+    position: fixed;
+    bottom: 5rem;
+    right: 1rem;
+    color: #EF4351;
+    
+}
