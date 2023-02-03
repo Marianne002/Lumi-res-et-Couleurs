@@ -5,6 +5,15 @@
 }
 
 /*Fonts */
+.font-load {
+    color: #E69F23;
+}
+.font-red {
+    color: #EF4351;;
+}
+.font-purple {
+    color: #5F4090;
+}
 
 /* images */
 .logoLc{
@@ -31,6 +40,9 @@ button {
 
 .btn-load {
     background-color: #E69F23;
+}
+.btn-red {
+    background-color: #EF4351;;
 }
 .btn-purple {
     background-color: #5F4090;
